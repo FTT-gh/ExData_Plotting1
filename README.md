@@ -90,4 +90,4 @@ date. There should be four PNG files and four R code files.
 
 
 The four plots that you will need to construct are shown below. 
-
+![unnamed-chunk-2](https://user-images.githubusercontent.com/78473729/114146092-761f6a80-9917-11eb-96ff-b95f3cd56974.png)
